@@ -1,2 +1,2 @@
-console.log("Olá Mundo, com carrinho");
+console.log("Olá Mundo com carrinho");
 
